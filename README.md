@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2sayle
+- 👋 Hi, I’m Elyass !
 - 👀 I’m interested in Electronics, Embedded Software and Tech in general.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on interesting embedded electronics projects ! 
