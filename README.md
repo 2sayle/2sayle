@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elyass !
 - 👀 I’m interested in Electronics, Embedded Software and Tech in general.
-- 🌱 I’m currently learning Java and Java Card.
 - 💞️ I’m looking to collaborate on interesting embedded electronics projects ! 
 - 📫 How to reach me : linkedin.com/in/ejaoudat or ejaoudat@outlook.fr
 - ⚡ Fun fact: I am based in the beautiful city of Bordeaux in southwestern France, which is renowned for its world-class wines and stunning architecture.
